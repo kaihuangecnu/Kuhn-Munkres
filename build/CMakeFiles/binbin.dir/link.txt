@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -Wall -Wextra    CMakeFiles/binbin.dir/alg1.cpp.o CMakeFiles/binbin.dir/munkres.cpp.o CMakeFiles/binbin.dir/matrix.cpp.o  -o binbin -rdynamic 

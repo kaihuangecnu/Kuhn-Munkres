@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jin/Downloads/Main/alg1.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+munkres.h
+/home/jin/Downloads/Main/munkres.h
+
+/home/jin/Downloads/Main/matrix.h
+initializer_list
+-
+cstdlib
+-
+ostream
+-
+assert.h
+-
+
+/home/jin/Downloads/Main/munkres.h
+matrix.h
+/home/jin/Downloads/Main/matrix.h
+list
+-
+utility
+-
+iostream
+-
+cmath
+-
+limits
+-
+
